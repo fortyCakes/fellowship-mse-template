@@ -1,0 +1,32 @@
+mse version: 2.0.0
+short name: Fellowship
+full name: Fellowship - Prototyping Template
+installer group: fellowship
+icon: PlayerCardBack_icon.png
+position hint: 01
+
+card field:
+	type: choice
+	name: color
+	description: The color of the card.
+	choice: neutral
+	choice: yellow
+	choice: blue
+	choice: purple
+	choice: red
+	choice: green
+
+card field:
+	type: text
+	name: name
+	description: The name of the card.
+
+card field:
+	type: text
+	name: text
+	description: The card's rules text.
+
+card field:
+	type: image
+	name: image
+	description: The card's art

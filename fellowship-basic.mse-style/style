@@ -1,0 +1,60 @@
+mse version: 2.0.0
+game: fellowship
+short name: Prototype
+full name: The prototype style file.
+icon: FellowshipNeutral_icon.png
+position hint: 1
+installer group: fellowship/style
+
+depends on:
+	package: fellowship.mse-game
+
+card width: 480
+card height: 672
+card dpi: 192
+card background: rgb(200,200,200)
+
+card style:
+	name:
+		top: 29
+		padding top: 5
+		left: 98
+		padding left: 5
+		height: 54
+		width: 335
+		font: 
+			name: Magnificent
+			size: 28
+			color: rgb(0,0,0)
+
+	color:
+		left: 0
+		top: 0
+		width: 480
+		height: 672
+		render style: image
+		choice images:
+			neutral: FellowshipNeutral.png
+			yellow: FellowshipYellow.png
+			blue: FellowshipBlue.png
+			purple: FellowshipPurple.png
+			red: FellowshipRed.png
+			green: FellowshipGreen.png
+
+	text:
+		left: 53
+		padding left: 5
+		top: 364
+		width: 381
+		height: 265
+		font:
+			name: Magnificent
+			size: 12
+			color: rgb(0,0,0)
+
+	image:
+		left: 54
+		top: 90
+		width: 385
+		height: 273
+		mask: image_mask.png
