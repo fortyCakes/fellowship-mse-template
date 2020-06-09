@@ -1,0 +1,86 @@
+mse version: 2.0.0
+version: 0.0.0
+installer group: fellowship/symbol-font
+
+image font size: 175
+
+symbol:
+	code: m
+	image: icon-martial.png
+	
+symbol:
+	code: d
+	image: icon-divine.png
+	
+symbol:
+	code: a
+	image: icon-arcane.png
+	
+symbol:
+	code: n
+	image: icon-nature.png
+	
+symbol:
+	code: s
+	image: icon-shadow.png
+	
+symbol:
+	code: f
+	image: icon-fatigue.png
+	
+symbol:
+	code: w
+	image: icon-wound.png
+	
+symbol:
+	code: /
+	image: icon-question.png
+	
+symbol:
+	code: x
+	image: icon-doom.png
+	
+symbol:
+	code: M
+	image: icon-martial.png
+	image font size: 50
+	
+symbol:
+	code: D
+	image: icon-divine.png
+	image font size: 50
+	
+symbol:
+	code: A
+	image: icon-arcane.png
+	image font size: 50
+	
+symbol:
+	code: N
+	image: icon-nature.png
+	image font size: 50
+	
+symbol:
+	code: S
+	image: icon-shadow.png
+	image font size: 50
+	
+symbol:
+	code: F
+	image: icon-fatigue.png
+	image font size: 50
+	
+symbol:
+	code: W
+	image: icon-wound.png
+	image font size: 50
+	
+symbol:
+	code: ?
+	image: icon-question.png
+	image font size: 50
+	
+symbol:
+	code: X
+	image: icon-doom.png
+	image font size: 50
